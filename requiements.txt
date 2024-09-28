@@ -1,0 +1,6 @@
+django
+asgiref
+python-dateutil
+six
+sqlparse
+tzdata
